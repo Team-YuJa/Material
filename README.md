@@ -4,7 +4,8 @@ Material Skin for openNAMU. (Based on MDB Plugins)
 
 Material 스킨을 openNAMU에 맞게 수정한 버전입니다. 일부가 추가, 제거되었습니다.
 
-**이 스킨은 구버전에 맞게 개발되었기에 최신 openNAMU에서 사용할 경우 오류가 발생할 수 있습니다.**
+2022년 10월 6일 기준으로 오픈나무에 적용됩니다.
+오류발생시 문의바랍니다
 
 ## 사용법
  * 다운받은 후, 이름을 Material로 바꿔서 views 폴더에 넣어주세요.
